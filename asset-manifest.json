@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tours/static/css/main.7446d698.css",
+    "main.js": "/tours/static/js/main.2f9f4299.js",
+    "index.html": "/tours/index.html",
+    "main.7446d698.css.map": "/tours/static/css/main.7446d698.css.map",
+    "main.2f9f4299.js.map": "/tours/static/js/main.2f9f4299.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7446d698.css",
+    "static/js/main.2f9f4299.js"
+  ]
+}
